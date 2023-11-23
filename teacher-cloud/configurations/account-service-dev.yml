@@ -1,0 +1,9 @@
+server:
+  port: 8003
+  servlet:
+    context-path: /account-service
+  error:
+    include-binding-errors: always
+spring:
+  config:
+    import: database-config.yml
