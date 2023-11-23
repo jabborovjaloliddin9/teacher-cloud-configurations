@@ -1,7 +1,5 @@
 package uz.online.authservice.service;
 
-import jakarta.validation.constraints.FutureOrPresent;
-import org.apache.catalina.LifecycleState;
 import uz.online.authservice.dto.UserAuthDto;
 import uz.online.authservice.dto.form.UserAuthForm;
 
